@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  :root {
+      --gris: #707070;
+  }
+
+  .cupon {
+      width: 100px;
+  }
+
+  p, .gris, input[placeholder] {
+      color: var(--gris);
+      font-weight: 300;
+  }
+
+  .boton {
+      border: 2px solid #ffffff80;
+        }
+
+.fondoVerde {
+    background-color: #28A745
+}
+
+.pieLogo {
+    width: 25%;
+    height: 25%;
+    }
+    
+    .mb {
+        margin-bottom: 3px;
+    }
+   
